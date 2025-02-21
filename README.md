@@ -3,4 +3,5 @@
 ## Liste de tâches pour notre projet
 
 1. [x] Créer le dépôt du projet
-2. [ ] Validation de commit pour le fichier README.md
+2. [x] Validation de commit pour le fichier README.md
+3. [ ] Récupérer un commit depuis le remote
